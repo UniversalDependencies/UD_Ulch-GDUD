@@ -1,0 +1,604 @@
+# sent_id = Ulch_grammar_1
+# text = ajačuxá
+# text[eng] = He corrected / she repaired / she mended
+1	ajačuxá	ajaču	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=fix-PST.3SG
+
+# sent_id = Ulch_grammar_2
+# text = ajaču-xamb’-é
+# text[eng] = (His/my) health condition improved.
+1	ajaču-xamb’-é	ajaču	VERB	_	Person=3|Reflex=Yes|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_3
+# text = alxá
+# text[eng] = He broke.
+1	alxá	al	VERB	_	Person=3|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_4
+# text = ambanbaní b
+# text[eng] = mad fellow
+1	ambanbaní	ambanbaní	ADJ	_	_	2	amod	_	_
+2	b	b	NOUN	_	_	0	root	_	_
+
+# sent_id = Ulch_grammar_5
+# text = and’uí
+# text[eng] = I do.
+1	and’uí	and’u	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_6
+# text = angaraguá
+# text[eng] = man's short coat
+1	angaraguá	angaraguá	NOUN	_	_	0	root	_	_
+
+# sent_id = Ulch_grammar_7
+# text = anʒú
+# text[eng] = He does / They do.
+1	anʒú	anʒú	VERB	_	Person=3|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_8
+# text = tórʒin tytý anʒú
+# text[eng] = I pay bride-price.
+1	tórʒin	tórʒin	NOUN	_	_	2	nmod	_	_
+2	tytý	tytý	NOUN	_	_	3	obj	_	_
+3	anʒú	anʒú	VERB	_	Person=3|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_9
+# text = argalaxáni
+# text[eng] = He has cheated.
+1	argalaxáni	argala	VERB	_	Person=3|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_10
+# text = auxá
+# text[eng] = He slept
+1	auxá	au	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_11
+# text = ba uly
+# text[eng] = good weather
+1	ba	ba	ADJ	_	Degree=Pos	2	amod	_	_
+2	uly	uly	NOUN	_	_	0	root	_	_
+
+# sent_id = Ulch_grammar_12
+# text = ba manga
+# text[eng] = snowstorm / blizzard
+1	ba	ba	ADJ	_	Degree=Pos	2	amod	_	_
+2	manga	manga	NOUN	_	_	0	root	_	_
+
+# sent_id = Ulch_grammar_13
+# text = badí
+# text[eng] = that side
+1	badí	badí	NOUN	_	Deixis=Remt	0	root	_	_
+
+# sent_id = Ulch_grammar_14
+# text = bagud’élaśi ni
+# text[eng] = a person loved by God
+1	bagud’élaśi	bagud’élaśi	ADJ	_	VerbForm=Part	2	amod	_	_
+2	ni	ni	NOUN	_	_	0	root	_	_
+
+# sent_id = Ulch_grammar_15
+# text = bakaxá
+# text[eng] = he was born
+1	bakaxá	baka	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_16
+# text = baldyxán ulé
+# text[eng] = he was born beautiful / he is handsome
+1	baldyxán	baldy	ADJ	_	VerbForm=Part	2	xcomp	_	_
+2	ulé	ulé	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_17
+# text = bu-xá
+# text[eng] = He gave / He was giving
+1	bu-xá	bu-xá	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=give-PST.3SG
+
+# sent_id = Ulch_grammar_18
+# text = bu-xý
+# text[eng] = He gave back
+1	bu-xý	bu-xý	VERB	_	Aspect=Iter|Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=give.back-PST.3SG
+
+# sent_id = Ulch_grammar_19
+# text = bujalu-ú
+# text[eng] = He broke
+1	bujalu-ú	bujalu-ú	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=break-PST.3SG
+
+# sent_id = Ulch_grammar_20
+# text = bukta-sú
+# text[eng] = Break away!
+1	bukta-sú	bukta-sú	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=break.off-IMP.2SG
+
+# sent_id = Ulch_grammar_21
+# text = buu-xá
+# text[eng] = He gave back
+1	buu-xá	buu-xá	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=give.back-PST.3SG
+
+# sent_id = Ulch_grammar_22
+# text = byidu-dí
+# text[eng] = pregnant woman
+1	byidu-dí	byidu-dí	NOUN	_	_	0	root	_	Gloss=pregnant-woman
+
+# sent_id = Ulch_grammar_23
+# text = ćobi-lá
+# text[eng] = wooden utensil
+1	ćobi-lá	ćobi-lá	NOUN	_	_	0	root	_	Gloss=curved.wood-tool
+
+# sent_id = Ulch_grammar_24
+# text = ćorom-dé
+# text[eng] = I'll lie down on my back
+1	ćorom-dé	ćorom-dé	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=lie.on.back-FUT.1SG
+
+# sent_id = Ulch_grammar_25
+# text = čalu-ú
+# text[eng] = I'll cut it off
+1	čalu-ú	čalu-ú	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=cut.off-FUT.1SG
+
+# sent_id = Ulch_grammar_26
+# text = da-ygý
+# text[eng] = eldest sister
+1	da-ygý	da-ygý	NOUN	_	_	0	root	_	Gloss=older.sister
+
+# sent_id = Ulch_grammar_27
+# text = didʼú
+# text[eng] = Come here!
+1	didʼú	didʼú	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=come.hither
+
+# sent_id = Ulch_grammar_28
+# text = didʼú nyní
+# text[eng] = Go there!
+1	didʼú	didʼú	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	Gloss=go.hither
+2	nyní	nyní	ADV	_	_	1	advmod	_	Gloss=away
+
+# sent_id = Ulch_grammar_29
+# text = kindaram-dé osłabł
+# text[eng] = He got weakened
+1	kindaram-dé	kindaram	NOUN	_	Case=Loc	2	obl	_	Gloss=man-LOC
+2	osłabł	osłabł	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=weaken-PST.3SG
+
+# sent_id = Ulch_grammar_30
+# text = kuś-kongoré
+# text[eng] = to jump out
+1	kuś-kongoré	kuś-kongoré	VERB	_	VerbForm=Inf	0	root	_	Gloss=jump-out
+
+# sent_id = Ulch_grammar_31
+# text = kusú
+# text[eng] = physical strength
+1	kusú	kusú	NOUN	_	_	0	root	_	Gloss=strength
+
+# sent_id = Ulch_grammar_32
+# text = kutyký
+# text[eng] = Russian boots
+1	kutyký	kutyký	NOUN	_	_	0	root	_	Gloss=boots
+
+# sent_id = Ulch_grammar_33
+# text = mo-lo
+# text[eng] = on a tree
+1	mo-lo	mo	NOUN	_	Case=Loc	0	root	_	Gloss=tree-LOC
+
+# sent_id = Ulch_grammar_34
+# text = mu-ly
+# text[eng] = in water
+1	mu-ly	mu	NOUN	_	Case=Loc	0	root	_	Gloss=water-LOC
+
+# sent_id = Ulch_grammar_35
+# text = mafá
+# text[eng] = old man
+1	mafá	mafá	NOUN	_	_	0	root	_	Gloss=old.man
+
+# sent_id = Ulch_grammar_36
+# text = mal-tý
+# text[eng] = They died
+1	mal-tý	mal	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	Gloss=die-PST.3PL
+
+# sent_id = Ulch_grammar_37
+# text = mamá
+# text[eng] = old woman
+1	mamá	mamá	NOUN	_	_	0	root	_	Gloss=old.woman
+
+# sent_id = Ulch_grammar_38
+# text = mirym-búj
+# text[eng] = I am getting married
+1	mirym-búj	mirym	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=marry-FUT.1SG
+
+# sent_id = Ulch_grammar_39
+# text = bi simbi mirym-búj
+# text[eng] = I will marry you
+1	bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=1SG
+2	simbi	simbi	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	Gloss=you(COM)
+3	mirym-búj	mirym	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=marry-FUT.1SG
+
+# sent_id = Ulch_grammar_40
+# text = naksuu-xá
+# text[eng] = He beat
+1	naksuu-xá	naksuu	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=beat-PST.3SG
+
+# sent_id = Ulch_grammar_41
+# text = ńala-xá
+# text[eng] = He threw
+1	ńala-xá	ńala	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=throw-PST.3SG
+
+# sent_id = Ulch_grammar_42
+# text = ńala-uxa
+# text[eng] = He threw away
+1	ńala-uxa	ńala-uxa	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=throw-away
+
+# sent_id = Ulch_grammar_43
+# text = ńur-xyni
+# text[eng] = He wrote down
+1	ńur-xyni	ńur	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=write-PST.3SG
+
+# sent_id = Ulch_grammar_44
+# text = ńur-í
+# text[eng] = I am writing down
+1	ńur-í	ńur	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	Gloss=write-PRS.1SG
+
+# sent_id = Ulch_grammar_45
+# text = ńýni
+# text[eng] = He/she goes
+1	ńýni	ńý	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=go-PRS.3SG
+
+# sent_id = Ulch_grammar_46
+# text = nýŋman-dý
+# text[eng] = Tell a fairy tale
+1	nýŋman-dý	nýŋman-dý	VERB	_	VerbForm=Inf	0	root	_	Gloss=fairy.tale-say
+
+# sent_id = Ulch_grammar_47
+# text = nyú
+# text[eng] = younger sibling
+1	nyú	nyú	NOUN	_	_	0	root	_	Gloss=younger.sibling
+
+# sent_id = Ulch_grammar_48
+# text = oćom-dé
+# text[eng] = I will open
+1	oćom-dé	oćom	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	Gloss=open-FUT.1SG
+
+# sent_id = Ulch_grammar_49
+# text = onbo-hó
+# text[eng] = He forgot
+1	onbo-hó	onbo	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=forget-PST.3SG
+
+# sent_id = Ulch_grammar_50
+# text = palźá
+# text[eng] = stair step
+1	palźá	palźá	NOUN	_	_	0	root	_	Gloss=stair.step
+
+# sent_id = Ulch_grammar_51
+# text = patalma-sí
+# text[eng] = secretly visit at night
+1	patalma-sí	patalma-sí	VERB	_	VerbForm=Inf	0	root	_	Gloss=night.go.secretly
+
+# sent_id = Ulch_grammar_52
+# text = pej-pej
+# text[eng] = (A fish) jumps out repeatedly
+1	pej-pej	pej-pej	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Gloss=jump.out.IDEO
+
+# sent_id = Ulch_grammar_53
+# text = Bi dǖe-mi vā-və sī-m
+# text[eng] = I see the children of the house.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	dǖe-mi	dǖe	NOUN	_	Case=Acc	4	obj	_	_
+3	vā-və	vā	NOUN	_	Number=Plur	2	nmod:poss	_	_
+4	sī-m	sī	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_54
+# text = Sī endū-və xāŋa-və dyo-n-i
+# text[eng] = Who are you eating the fish with?
+1	Sī	sī	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	endū-və	endū	PRON	_	Number=Plur|PronType=Int	4	obl	_	_
+3	xāŋa-və	xāŋa	NOUN	_	Number=Plur	4	obj	_	_
+4	dyo-n-i	dyo	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_55
+# text = Bi puē-mi ū-chi-m
+# text[eng] = I do not drink the water.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+2	puē-mi	puē	NOUN	_	Case=Acc	1	parataxis	_	_
+3	ū-chi-m	ū	VERB	_	Number=Sing|Person=1|Polarity=Neg|Tense=Pres	1	parataxis	_	Gloss=drink-NEG-PRS.1SG
+
+# sent_id = Ulch_grammar_56
+# text = Enin vā-ni dǖe-ni ŋenə-və
+# text[eng] = These are the child's house's dogs.
+1	Enin	enin	DET	_	Number=Plur|PronType=Dem	4	det	_	_
+2	vā-ni	vā	NOUN	_	Case=Gen	3	nmod:poss	_	_
+3	dǖe-ni	dǖe	NOUN	_	Case=Gen	4	nmod:poss	_	_
+4	ŋenə-və	ŋenə	NOUN	_	Number=Plur	0	root	_	_
+
+# sent_id = Ulch_grammar_57
+# text = Bi vā-və dǖe-mi ē-lə-m
+# text[eng] = I make the children enter the house.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	vā-və	vā	NOUN	_	Number=Plur	4	obj	_	_
+3	dǖe-mi	dǖe	NOUN	_	Case=Acc	4	obl	_	_
+4	ē-lə-m	ē	VERB	_	Number=Sing|Person=1|Tense=Pres|Voice=Cau	0	root	_	Gloss=enter-CAUS-PRS.1SG
+
+# sent_id = Ulch_grammar_58
+# text = Bi xāŋa-mi dyō-ke-m
+# text[eng] = I ate the fish.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	xāŋa-mi	xāŋa	NOUN	_	Case=Acc	3	obj	_	_
+3	dyō-ke-m	dyō	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_59
+# text = Sī dǖe-mi sī-n-i
+# text[eng] = Do you see the house?
+1	Sī	sī	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	dǖe-mi	dǖe	NOUN	_	Case=Acc	3	obj	_	_
+3	sī-n-i	sī	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_60
+# text = Dǖe-mi ē-chi-ŋ
+# text[eng] = Don't enter the house!
+1	Dǖe-mi	dǖe	NOUN	_	Case=Acc	2	obl	_	_
+2	ē-chi-ŋ	ē	VERB	_	Mood=Imp|Person=2|Polarity=Neg	0	root	_	Gloss=enter-NEG-IMP.2SG
+
+# sent_id = Ulch_grammar_61
+# text = Vā-və dǖe-dū ē-və
+# text[eng] = The children are in the house.
+1	Vā-və	vā	NOUN	_	Number=Plur	3	nsubj	_	_
+2	dǖe-dū	dǖe	NOUN	_	Case=Loc	3	obl	_	_
+3	ē-və	ē	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	Gloss=be-PRS.3PL
+
+# sent_id = Ulch_grammar_62
+# text = Enin xāŋa enin-dū gulə-və
+# text[eng] = This fish is bigger than that one.
+1	Enin	enin	DET	_	PronType=Dem	2	det	_	_
+2	xāŋa	xāŋa	NOUN	_	_	4	nsubj	_	_
+3	enin-dū	enin	PRON	_	Case=Loc|PronType=Prs	4	obl	_	_
+4	gulə-və	gulə	ADJ	_	Degree=Cmp|Number=Plur	0	root	_	Gloss=big-CMP-PL
+
+# sent_id = Ulch_grammar_63
+# text = Bi vā-və dǖe-mi ē-lə-chi-m
+# text[eng] = I don't make the children enter the house.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	vā-və	vā	NOUN	_	Number=Plur	4	obj	_	_
+3	dǖe-mi	dǖe	NOUN	_	Case=Acc	4	obl	_	_
+4	ē-lə-chi-m	ē	VERB	_	Number=Sing|Person=1|Polarity=Neg|Tense=Pres|Voice=Cau	0	root	_	Gloss=enter-CAUS-NEG-PRS.1SG
+
+# sent_id = Ulch_grammar_64
+# text = Tētē-ni bi puē-mi ū-m
+# text[eng] = In the morning, I drink water.
+1	Tētē-ni	tētē	NOUN	_	Case=Gen	4	obl	_	_
+2	bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	puē-mi	puē	NOUN	_	Case=Acc	4	obj	_	_
+4	ū-m	ū	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_65
+# text = Dǖe-dū ŋenə bī-və
+# text[eng] = There are dogs in the house.
+1	Dǖe-dū	dǖe	NOUN	_	Case=Loc	3	obl	_	_
+2	ŋenə	ŋenə	NOUN	_	Number=Plur	3	nsubj	_	_
+3	bī-və	bī	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	Gloss=be-PRS.3PL
+
+# sent_id = Ulch_grammar_66
+# text = Bi vā-ni dǖe-mi ē-ne mēne-m
+# text[eng] = I know that the child enters the house.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	vā-ni	vā	NOUN	_	Case=Gen	4	nsubj	_	_
+3	dǖe-mi	dǖe	NOUN	_	Case=Acc	4	obl	_	_
+4	ē-ne	ē	VERB	_	VerbForm=Vnoun	5	ccomp	_	Gloss=enter-VN
+5	mēne-m	mēne	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	Gloss=know-PRS.1SG
+
+# sent_id = Ulch_grammar_67
+# text = Sī dǖe-mi ē-n-chī bi sī-ni xēlu-m xēlu-m
+# text[eng] = If you enter the house, I will help you.
+1	Sī	sī	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	dǖe-mi	dǖe	NOUN	_	Case=Acc	4	obl	_	_
+3	ē-n-chī	ē	VERB	_	Mood=Cnd|Person=2|Tense=Pres	7	advcl	_	Gloss=enter-PRS.2SG-COND
+4	bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	sī-ni	sī	PRON	_	Case=Gen|PronType=Prs	7	obj	_	_
+6	xēlu-m	xēlu	VERB	_	Number=Sing|Person=1|Tense=Pres	7	dep	_	_
+7	xēlu-m	xēlu	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	Gloss=help-PRS.1SG
+
+# sent_id = Ulch_grammar_68
+# text = Bi xāŋa-mi dyō-ri-dū vā-və dǖe-dū bī-və
+# text[eng] = When I ate the fish, the children were in the house.
+1	Bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	xāŋa-mi	xāŋa	NOUN	_	Case=Acc	4	obj	_	_
+3	dyō-ri-dū	dyō	VERB	_	Case=Loc|VerbForm=Part	0	root	_	Gloss=eat-PTCP-LOC
+4	vā-və	vā	NOUN	_	Number=Plur	3	parataxis	_	_
+5	dǖe-dū	dǖe	NOUN	_	Case=Loc	3	parataxis	_	_
+6	bī-və	bī	VERB	_	Number=Plur|Person=3|Tense=Pres	3	parataxis	_	Gloss=be-PRS.3PL
+
+# sent_id = Ulch_grammar_69
+# text = Би дю̄э-ми ва̄-тэ̄ пуэ̄ ӯ-нэ-тэ̄ э̄-м
+# text[eng] = I go to the house for the child to drink water.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	дю̄э-ми	дю̄э	NOUN	_	Case=Acc	6	obl	_	_
+3	ва̄-тэ̄	ва̄	NOUN	_	Case=Dat	6	obl	_	Role=Ben
+4	пуэ̄	пуэ̄	NOUN	_	Case=Acc	5	obj	_	_
+5	ӯ-нэ-тэ̄	ӯ	VERB	_	VerbForm=Vnoun	6	advcl	_	Purpose=Yes
+6	э̄-м	э̄	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_70
+# text = пуэ̄ ӯ-ри ва̄ хэ̄лу-вэ сӣ-м
+# text[eng] = I see the friends of the child who drinks water.
+1	пуэ̄	пуэ̄	NOUN	_	Case=Acc	2	obj	_	_
+2	ӯ-ри	ӯ	VERB	_	VerbForm=Part	3	acl	_	_
+3	ва̄	ва̄	NOUN	_	_	4	nmod:poss	_	_
+4	хэ̄лу-вэ	хэ̄лу	NOUN	_	Number=Plur	5	obj	_	_
+5	сӣ-м	сӣ	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_71
+# text = Би ва̄-ни дю̄э-ми э̄-ди ӈэнэ сӣ-м
+# text[eng] = I see the dog that entered the child's house.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	ва̄-ни	ва̄	NOUN	_	Case=Gen	3	nmod:poss	_	_
+3	дю̄э-ми	дю̄э	NOUN	_	Case=Acc	4	obl	_	_
+4	э̄-ди	э̄	VERB	_	VerbForm=Part	5	acl	_	_
+5	ӈэнэ	ӈэнэ	NOUN	_	_	6	obj	_	_
+6	сӣ-м	сӣ	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_72
+# text = Би ха̄ӈа-ми дё̄-ри-дӯ ва̄-вэ дю̄э-дӯ бӣ-вэ
+# text[eng] = When I ate the fish, the children were in the house.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ха̄ӈа-ми	ха̄ӈа	NOUN	_	Case=Acc	3	obj	_	_
+3	дё̄-ри-дӯ	дё̄	VERB	_	Case=Loc|VerbForm=Part	0	root	_	_
+4	ва̄-вэ	ва̄	NOUN	_	Number=Plur	3	parataxis	_	_
+5	дю̄э-дӯ	дю̄э	NOUN	_	Case=Loc	3	parataxis	_	_
+6	бӣ-вэ	бӣ	VERB	_	Number=Plur|Person=3|Tense=Pres	3	parataxis	_	_
+
+# sent_id = Ulch_grammar_73
+# text = ва̄-вэ дю̄э-ми э̄-ри-chī би пуэ̄-ми ӯ-м
+# text[eng] = After the children entered the house, I drank water.
+1	ва̄-вэ	ва̄	NOUN	_	Number=Plur	3	nsubj	_	_
+2	дю̄э-ми	дю̄э	NOUN	_	Case=Acc	3	obl	_	_
+3	э̄-ри-chī	э̄	VERB	_	VerbForm=Part	0	root	_	ConvType=After
+4	би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	parataxis	_	_
+5	пуэ̄-ми	пуэ̄	NOUN	_	Case=Acc	3	parataxis	_	_
+6	ӯ-м	ӯ	VERB	_	Number=Sing|Person=1|Tense=Pres	3	parataxis	_	_
+
+# sent_id = Ulch_grammar_74
+# text = Сӣ ха̄ӈа-ми дё̄-н-чӣ би сӣ-ни хэ̄лу-м
+# text[eng] = If you eat the fish, I will help you.
+1	Сӣ	сӣ	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	ха̄ӈа-ми	ха̄ӈа	NOUN	_	Case=Acc	3	obj	_	_
+3	дё̄-н-чӣ	дё̄	VERB	_	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	ConvType=Cond
+4	би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	parataxis	_	_
+5	сӣ-ни	сӣ	PRON	_	Case=Gen|PronType=Prs	3	parataxis	_	_
+6	хэ̄лу-м	хэ̄лу	VERB	_	Number=Sing|Person=1|Tense=Pres	3	parataxis	_	_
+
+# sent_id = Ulch_grammar_75
+# text = Сӣ дю̄э-ми э̄-чи-н-chī би энин-дӯ бӣ-м
+# text[eng] = If you don't enter the house, I will stay here.
+1	Сӣ	сӣ	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	дю̄э-ми	дю̄э	NOUN	_	Case=Acc	3	obl	_	_
+3	э̄-чи-н-chī	э̄	VERB	_	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	ConvType=Cond
+4	би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	parataxis	_	_
+5	энин-дӯ	энин	ADV	_	Case=Loc	3	parataxis	_	_
+6	бӣ-м	бӣ	VERB	_	Number=Sing|Person=1|Tense=Pres	3	parataxis	_	_
+
+# sent_id = Ulch_grammar_76
+# text = Би ва̄-ни дю̄э-ми э̄-нэ мэ̄нэ-м
+# text[eng] = I know that the child entered the house.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	ва̄-ни	ва̄	NOUN	_	Case=Gen	4	nsubj	_	_
+3	дю̄э-ми	дю̄э	NOUN	_	Case=Acc	4	obl	_	_
+4	э̄-нэ	э̄	VERB	_	VerbForm=Vnoun	5	ccomp	_	_
+5	мэ̄нэ-м	мэ̄нэ	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_77
+# text = Би сӣ ха̄ӈа-ми дё̄-нэ хэ̄су-м
+# text[eng] = I want you to eat the fish.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	сӣ	сӣ	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+3	ха̄ӈа-ми	ха̄ӈа	NOUN	_	Case=Acc	4	obj	_	_
+4	дё̄-нэ	дё̄	VERB	_	VerbForm=Vnoun	5	ccomp	_	_
+5	хэ̄су-м	хэ̄су	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_78
+# text = Эси Сӣ мэ̄нэ-н-и
+# text[eng] = How are you?
+1	Эси	эси	INTJ	_	_	0	root	_	_
+2	Сӣ	сӣ	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+3	мэ̄нэ-н-и	мэ̄нэ	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	1	parataxis	_	_
+
+# sent_id = Ulch_grammar_79
+# text = Соло би мэ̄нэ-м Сӣ-ни эндӯ
+# text[eng] = I am fine, thanks, and you?
+1	Соло	соло	INTJ	_	_	4	discourse	_	_
+2	би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	мэ̄нэ-м	мэ̄нэ	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	Сӣ-ни	сӣ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+5	эндӯ	эндӯ	ADV	_	Mood=Int	3	parataxis	_	_
+
+# sent_id = Ulch_grammar_80
+# text = Тэ̄тэ̄-дӯ а̄си-вэ гулэ-вэ
+# text[eng] = The clouds in the morning are big.
+1	Тэ̄тэ̄-дӯ	тэ̄тэ̄	NOUN	_	Case=Loc	3	obl	_	_
+2	а̄си-вэ	а̄си	NOUN	_	Number=Plur	3	nsubj	_	_
+3	гулэ-вэ	гулэ	ADJ	_	Number=Plur	0	root	_	_
+
+# sent_id = Ulch_grammar_81
+# text = Ӈэнэ-вэ ха̄ӈа-ми дё̄-ри-дӯ пуэ̄-дӯ бичи-вэ
+# text[eng] = When dogs eat fish, they would jump in the water.
+1	Ӈэнэ-вэ	Ӈэнэ	NOUN	_	Number=Plur	5	nsubj	_	_
+2	ха̄ӈа-ми	ха̄ӈа	NOUN	_	Case=Acc	3	obj	_	_
+3	дё̄-ри-дӯ	дё̄	VERB	_	Case=Loc|VerbForm=Part	5	advcl	_	_
+4	пуэ̄-дӯ	пуэ̄	NOUN	_	Case=Loc	5	obl	_	_
+5	бичи-вэ	бичи	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_82
+# text = Би сӣ-ни хэ̄су-м
+# text[eng] = I adore you.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	сӣ-ни	сӣ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+3	хэ̄су-м	хэ̄су	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_83
+# text = Би ва̄-ни дю̄э-ми э̄-чи-ри-дӯ, со̄кто-м
+# text[eng] = I feel sad when children do not come home.
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	ва̄-ни	ва̄	NOUN	_	Case=Gen	4	nsubj	_	_
+3	дю̄э-ми	дю̄э	NOUN	_	Case=Acc	4	obl	_	_
+4	э̄-чи-ри-дӯ	э̄	VERB	_	Case=Loc|Polarity=Neg|VerbForm=Part	6	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	со̄кто-м	со̄кто	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_84
+# text = Пуэ̄-ми ӯ-ӈ
+# text[eng] = Drink water!
+1	Пуэ̄-ми	пуэ̄	NOUN	_	Case=Acc	2	obj	_	_
+2	ӯ-ӈ	ӯ	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# sent_id = Ulch_grammar_85
+# text = Дю̄э-ми э̄-чи-ӈ
+# text[eng] = Do not come into the house!
+1	Дю̄э-ми	дю̄э	NOUN	_	Case=Acc	2	obl	_	_
+2	э̄-чи-ӈ	э̄	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	_	_
+
+# sent_id = Ulch_grammar_86
+# text = Хони бису?
+# text[eng] = How are you?
+1	Хони	хони	ADV	_	_	2	advmod	_	_
+2	бису	бису	VERB	_	Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Ulch_grammar_87
+# text = Кэси банха.
+# text[eng] = I am fine.
+1	Кэси	кэси	ADV	_	_	2	advmod	_	_
+2	банха	банха	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Ulch_grammar_88
+# text = Улэ бипу.
+# text[eng] = I am also fine.
+1	Улэ	улэ	ADV	_	_	2	advmod	_	_
+2	бипу	бипу	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Ulch_grammar_89
+# text = Си гэлбуси нгуй?
+# text[eng] = What's your name?
+1	Си	си	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	гэлбуси	гэлбуси	NOUN	_	_	3	obj	_	_
+3	нгуй	нгуй	VERB	_	Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Ulch_grammar_90
+# text = Сарасимбэ
+# text[eng] = I don't know.
+1	Сарасимбэ	сара	VERB	_	Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	_
+
+# sent_id = Ulch_grammar_91
+# text = Си нан’идами урчулундиси?
+# text[eng] = Do you speak Ulch?
+1	Си	си	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	нан’идами	нан’и	PROPN	_	Case=Acc	3	obj	_	_
+3	урчулундиси	урчулун	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Ulch_grammar_92
+# text = Эси Дю̄э-ми хэди-вэ?
+# text[eng] = Hello! Did you see my house?
+1	Эси	эси	INTJ	_	_	3	discourse	_	_
+2	Дю̄э-ми	дю̄э	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=1|Poss=Yes	3	obj	_	_
+3	хэди-вэ	хэди	VERB	_	Mood=Int|Number=Sing|Person=2|Tense=Past	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Ulch_grammar_93
+# text = Би ха̄ӈа-вэ дё-м.
+# text[eng] = I ate fish (plural).
+1	Би	би	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ха̄ӈа-вэ	ха̄ӈа	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+3	дё-м	дё	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
