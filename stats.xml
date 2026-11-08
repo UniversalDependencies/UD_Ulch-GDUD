@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>93</sentences><tokens>232</tokens><words>232</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>93</sentences><tokens>232</tokens><words>232</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="114" /><!-- би, dǖe, bi, дю̄э, сӣ, vā, ва̄, э̄, sī, ē, пуэ̄, ха̄ӈа, ?, xāŋa, дё̄ -->
+  <forms unique="157" /><!-- би, bi, дю̄э-ми, dǖe-mi, vā-və, ?, сӣ, ха̄ӈа-ми, ., Sī, dǖe-dū, ва̄-ни, сӣ-ни, Enin, anʒú -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="9">
+    <tag name="ADJ">7</tag><!-- ba, ambanbaní, bagud’élaśi, baldy, gulə, гулэ -->
+    <tag name="ADV">6</tag><!-- nyní, кэси, улэ, хони, эндӯ, энин -->
+    <tag name="DET">2</tag><!-- enin -->
+    <tag name="INTJ">3</tag><!-- эси, соло -->
+    <tag name="NOUN">79</tag><!-- dǖe, дю̄э, vā, ва̄, пуэ̄, ха̄ӈа, xāŋa, puē, ŋenə, ӈэнэ -->
+    <tag name="PRON">38</tag><!-- би, bi, сӣ, sī, си, endū, enin, simbi -->
+    <tag name="PROPN">1</tag><!-- нан’и -->
+    <tag name="PUNCT">8</tag><!-- ?, ., , -->
+    <tag name="VERB">88</tag><!-- э̄, ē, дё̄, ӯ, мэ̄нэ, ajaču, anʒú, bī, didʼú, dyō -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="33">
+    <feat name="Aspect" value="Iter" upos="VERB">1</feat><!-- bu-xý -->
+    <feat name="Case" value="Acc" upos="NOUN,PROPN">29</feat><!-- дю̄э-ми, dǖe-mi, ха̄ӈа-ми, puē-mi, xāŋa-mi, пуэ̄, пуэ̄-ми, нан’идами, ха̄ӈа-вэ -->
+    <feat name="Case" value="Dat" upos="NOUN">1</feat><!-- ва̄-тэ̄ -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON">11</feat><!-- ва̄-ни, сӣ-ни, vā-ni, Tētē-ni, dǖe-ni, sī-ni -->
+    <feat name="Case" value="Loc" upos="ADV,NOUN,PRON,VERB">15</feat><!-- dǖe-dū, дё̄-ри-дӯ, dyō-ri-dū, enin-dū, kindaram-dé, mo-lo, mu-ly, Тэ̄тэ̄-дӯ, дю̄э-дӯ, пуэ̄-дӯ -->
+    <feat name="Degree" value="Cmp" upos="ADJ">1</feat><!-- gulə-və -->
+    <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- ba -->
+    <feat name="Deixis" value="Remt" upos="NOUN">1</feat><!-- badí -->
+    <feat name="Mood" value="Cnd" upos="VERB">1</feat><!-- ē-n-chī -->
+    <feat name="Mood" value="Imp" upos="VERB">6</feat><!-- didʼú, bukta-sú, ē-chi-ŋ, э̄-чи-ӈ, ӯ-ӈ -->
+    <feat name="Mood" value="Ind" upos="VERB">3</feat><!-- pej-pej, дё̄-н-чӣ, э̄-чи-н-chī -->
+    <feat name="Mood" value="Int" upos="ADV,VERB">6</feat><!-- dyo-n-i, sī-n-i, мэ̄нэ-н-и, урчулундиси, хэди-вэ, эндӯ -->
+    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,PRON,VERB">24</feat><!-- vā-və, bī-və, ва̄-вэ, Enin, endū-və, gulə-və, mal-tý, xāŋa-və, ē-və, ŋenə -->
+    <feat name="Number" value="Sing" upos="PRON,VERB">92</feat><!-- би, bi, сӣ, Sī, didʼú, mirym-búj, xēlu-m, Си, мэ̄нэ-м, сӣ-м -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN">1</feat><!-- Дю̄э-ми -->
+    <feat name="Person" value="1" upos="PRON,VERB">53</feat><!-- би, bi, mirym-búj, xēlu-m, мэ̄нэ-м, сӣ-м, хэ̄су-м, and’uí, dyō-ke-m, mēne-m -->
+    <feat name="Person" value="2" upos="PRON,VERB">28</feat><!-- сӣ, Sī, didʼú, Си, сӣ-ни, bukta-sú, dyo-n-i, simbi, sī-n-i, ē-chi-ŋ -->
+    <feat name="Person" value="3" upos="VERB">26</feat><!-- anʒú, bī-və, ajaču-xamb’-é, ajačuxá, alxá, argalaxáni, auxá, bakaxá, bu-xá, bu-xý -->
+    <feat name="Person[psor]" value="1" upos="NOUN">1</feat><!-- Дю̄э-ми -->
+    <feat name="Polarity" value="Neg" upos="VERB">7</feat><!-- ē-chi-ŋ, ē-lə-chi-m, ū-chi-m, Сарасимбэ, э̄-чи-н-chī, э̄-чи-ри-дӯ, э̄-чи-ӈ -->
+    <feat name="Poss" value="Yes" upos="NOUN">1</feat><!-- Дю̄э-ми -->
+    <feat name="PronType" value="Dem" upos="DET">2</feat><!-- Enin -->
+    <feat name="PronType" value="Int" upos="PRON">1</feat><!-- endū-və -->
+    <feat name="PronType" value="Prs" upos="PRON">37</feat><!-- би, bi, сӣ, Sī, сӣ-ни, Си, enin-dū, simbi, sī-ni -->
+    <feat name="Reflex" value="Yes" upos="VERB">1</feat><!-- ajaču-xamb’-é -->
+    <feat name="Tense" value="Fut" upos="VERB">5</feat><!-- mirym-búj, oćom-dé, ćorom-dé, čalu-ú -->
+    <feat name="Tense" value="Past" upos="VERB">20</feat><!-- ajaču-xamb’-é, ajačuxá, alxá, argalaxáni, auxá, bakaxá, bu-xá, bu-xý, bujalu-ú, buu-xá -->
+    <feat name="Tense" value="Pres" upos="VERB">42</feat><!-- anʒú, bī-və, xēlu-m, мэ̄нэ-м, сӣ-м, хэ̄су-м, and’uí, dyo-n-i, mēne-m, sī-m -->
+    <feat name="VerbForm" value="Fin" upos="VERB">3</feat><!-- pej-pej, дё̄-н-чӣ, э̄-чи-н-chī -->
+    <feat name="VerbForm" value="Inf" upos="VERB">3</feat><!-- kuś-kongoré, nýŋman-dý, patalma-sí -->
+    <feat name="VerbForm" value="Part" upos="ADJ,VERB">9</feat><!-- дё̄-ри-дӯ, bagud’élaśi, baldyxán, dyō-ri-dū, э̄-ди, э̄-ри-chī, э̄-чи-ри-дӯ, ӯ-ри -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">4</feat><!-- ē-ne, дё̄-нэ, э̄-нэ, ӯ-нэ-тэ̄ -->
+    <feat name="Voice" value="Cau" upos="VERB">2</feat><!-- ē-lə-chi-m, ē-lə-m -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="17">
+    <dep name="acl">2</dep>
+    <dep name="advcl">4</dep>
+    <dep name="advmod">4</dep>
+    <dep name="amod">4</dep>
+    <dep name="ccomp">3</dep>
+    <dep name="dep">1</dep>
+    <dep name="det">2</dep>
+    <dep name="discourse">2</dep>
+    <dep name="nmod">1</dep>
+    <dep name="nmod:poss">5</dep>
+    <dep name="nsubj">37</dep>
+    <dep name="obj">24</dep>
+    <dep name="obl">22</dep>
+    <dep name="parataxis">19</dep>
+    <dep name="punct">8</dep>
+    <dep name="root">93</dep>
+    <dep name="xcomp">1</dep>
+  </deps>
+</treebank>
